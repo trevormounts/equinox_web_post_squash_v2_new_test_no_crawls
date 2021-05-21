@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "jXiHBeGv27a1Wk3sZQodiQ==\n", 
+    "height": 29, 
+    "hier_level": 0, 
+    "human_hash": "button_X1255_Y76_W144_H29", 
+    "human_readable": "button_1255_76_144_29_button_ffffffffffffffff800780078007800580018007c007ffffffffffffffffffff_6e901fde7383ad3b770aaa35df5fbc35", 
+    "image_path": "Y2U4MGZlMzExM2EyMGMwMGNhMmRjMWViN2M5ZmE3YTQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-controls": "SiteNavLabel-accessories", 
+                "aria-expanded": "false", 
+                "class": "site-nav__link site-nav__link--main site-nav__link--button", 
+                "type": "button"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(58, 58, 58)", 
+            "cssClass": "site-nav__link site-nav__link--main site-nav__link--button", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica, \"Helvetica Neue\", Arial, \"Lucida Grande\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 29, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "ACCESSORIES", 
+            "type": "button", 
+            "value": "", 
+            "width": 144, 
+            "x": 1255, 
+            "xPercent": 65.86122047244093, 
+            "y": 76, 
+            "yPercent": 2.1505376344086025
+        }, 
+        "location": {
+            "x": 1255, 
+            "y": 76
+        }, 
+        "size": {
+            "height": 29, 
+            "width": 144
+        }, 
+        "tag_name": "button", 
+        "text": "ACCESSORIES"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "a984d21cc4591971340efb2827810f0e", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "ACCESSORIES", 
+    "transformed": true, 
+    "width": 144, 
+    "x": 1255, 
+    "y": 76
+}

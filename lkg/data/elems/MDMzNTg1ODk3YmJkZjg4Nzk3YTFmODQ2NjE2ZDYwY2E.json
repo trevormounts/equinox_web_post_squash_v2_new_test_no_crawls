@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "HObeGbfi7PQomIuoQd+QSQ==\n", 
+    "height": 115, 
+    "hier_level": 0, 
+    "human_hash": "a_X404_Y701_W127_H115", 
+    "human_readable": "a_404_701_127_115_a_7e7efe7ff83ff01ff01ff01ff01ff01ff81ff81ff81ffc0ffc0ffc0ff80f780e_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "MDMzNTg1ODk3YmJkZjg4Nzk3YTFmODQ2NjE2ZDYwY2E.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-current": "true", 
+                "class": "text-link product-single__thumbnail product-single__thumbnail--product-template active-thumb", 
+                "data-thumbnail-id": "product-template-20781964034198", 
+                "data-zoom": "//cdn.shopify.com/s/files/1/0458/8840/5654/products/LW1CW8S_047824_1_LOGO_1024x1024@2x.jpg?v=1617735841", 
+                "href": "//cdn.shopify.com/s/files/1/0458/8840/5654/products/LW1CW8S_047824_1_LOGO_1024x1024@2x.jpg?v=1617735841"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(58, 58, 58)", 
+            "cssClass": "text-link product-single__thumbnail product-single__thumbnail--product-template active-thumb", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Graphik_Semibold", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 115, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 127, 
+            "x": 404, 
+            "xPercent": 21.181102362204722, 
+            "y": 701, 
+            "yPercent": 34.351279382957884
+        }, 
+        "location": {
+            "x": 404, 
+            "y": 701
+        }, 
+        "size": {
+            "height": 115, 
+            "width": 127
+        }, 
+        "tag_name": "a", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "497d047ec7168d6575472a8a1c683b0c", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "", 
+    "transformed": true, 
+    "width": 127, 
+    "x": 404, 
+    "y": 701
+}

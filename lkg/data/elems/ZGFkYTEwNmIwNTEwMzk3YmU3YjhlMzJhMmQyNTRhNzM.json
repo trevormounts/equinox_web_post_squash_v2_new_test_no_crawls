@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "hUmReocMBfBiFWhMuR7lFw==\n", 
+    "height": 21, 
+    "hier_level": 0, 
+    "human_hash": "button_X1667_Y201_W108_H21", 
+    "human_readable": "button_1667_201_108_21_button_ffffffffffff7fff7fff800080008000000001000002fffefffeffffffff0000_ec4341d29f62399a28cd3d17dc5d5760", 
+    "image_path": "ZGFkYTEwNmIwNTEwMzk3YmU3YjhlMzJhMmQyNTRhNzM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "cart-popup__dismiss-button text-link text-link--accent", 
+                "data-cart-popup-dismiss": ""
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "cart-popup__dismiss-button text-link text-link--accent", 
+            "domLevel": 5, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica, \"Helvetica Neue\", Arial, \"Lucida Grande\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13, 
+            "height": 21, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Continue shopping", 
+            "type": "", 
+            "value": "", 
+            "width": 108, 
+            "x": 1667, 
+            "xPercent": 87.49589895013123, 
+            "y": 201, 
+            "yPercent": 9.867011508325172
+        }, 
+        "location": {
+            "x": 1667, 
+            "y": 201
+        }, 
+        "size": {
+            "height": 21, 
+            "width": 108
+        }, 
+        "tag_name": "button", 
+        "text": "Continue shopping"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "8dab85cf7742ecc785ee0c8015868979", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Continue shopping", 
+    "transformed": true, 
+    "width": 108, 
+    "x": 1667, 
+    "y": 201
+}

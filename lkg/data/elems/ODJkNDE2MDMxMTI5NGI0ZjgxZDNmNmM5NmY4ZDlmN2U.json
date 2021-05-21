@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "wJRGpA+ROIO+Iu8ONHqqkA==\n", 
+    "height": 50, 
+    "hier_level": 0, 
+    "human_hash": "a_X873_Y663_W158_H50", 
+    "human_readable": "a_873_663_158_50_a_0000000008003dbc3dbc0000000000000000000000000000ffffffffffffffff_8e78e684209b1501e7f5256f0771e753", 
+    "image_path": "ODJkNDE2MDMxMTI5NGI0ZjgxZDNmNmM5NmY4ZDlmN2U.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "btn slideshow__btn", 
+                "href": "https://equinoxtheshop.com/HomePage_HeroCarousel_TheDrop_CropUp", 
+                "tabindex": "0"
+            }, 
+            "background-color": "rgb(0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "btn slideshow__btn", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Graphik_Semibold", 
+            "font-weight": "700", 
+            "fontSize": 13, 
+            "height": 50, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "SHOP THE DROP", 
+            "type": "", 
+            "value": "", 
+            "width": 158, 
+            "x": 873, 
+            "xPercent": 45.846456692913385, 
+            "y": 663, 
+            "yPercent": 13.97735306284576
+        }, 
+        "location": {
+            "x": 873, 
+            "y": 663
+        }, 
+        "size": {
+            "height": 50, 
+            "width": 158
+        }, 
+        "tag_name": "a", 
+        "text": "SHOP THE DROP"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "63b041753ad24e66d33d15eb79f392ff", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "SHOP THE DROP", 
+    "transformed": true, 
+    "width": 158, 
+    "x": 873, 
+    "y": 663
+}

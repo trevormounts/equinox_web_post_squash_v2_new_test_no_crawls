@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ogL9afA0T0ZPkjxWtcPOCw==\n", 
+    "height": 31, 
+    "hier_level": 0, 
+    "human_hash": "span_X1277_Y604_W220_H31", 
+    "human_readable": "span_1277_604_220_31_span_ffffffffffffffffffffb63f803f803f803f803f803fff7fffffffffffffffff_7bc7f240cd2e2cba6673cc708084319b", 
+    "image_path": "NzhkN2ZlOTk5NzdmZmMwNjBlZDUxOTQ1MmEyYmQ1YWM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-sort": "price-ascending", 
+                "onclick": "changeSortBy('price-ascending');"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(58, 58, 58)", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Graphik_Semibold", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 31, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Price, low to high", 
+            "type": "", 
+            "value": "", 
+            "width": 220, 
+            "x": 1277, 
+            "xPercent": 67.00787401574803, 
+            "y": 604, 
+            "yPercent": 17.076966610073573
+        }, 
+        "location": {
+            "x": 1277, 
+            "y": 604
+        }, 
+        "size": {
+            "height": 31, 
+            "width": 220
+        }, 
+        "tag_name": "span", 
+        "text": "Price, low to high"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "f6c3f59c0a17953545d1c2bef725efae", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Price, low to high", 
+    "transformed": true, 
+    "width": 220, 
+    "x": 1277, 
+    "y": 604
+}

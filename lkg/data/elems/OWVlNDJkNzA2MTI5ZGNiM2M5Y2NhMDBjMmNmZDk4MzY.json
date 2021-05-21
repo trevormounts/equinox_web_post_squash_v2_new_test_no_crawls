@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "oVdEBtcBlWsdnBk2PaKdsw==\n", 
+    "height": 71, 
+    "hier_level": 0, 
+    "human_hash": "div_X1233_Y365_W265_H71", 
+    "human_readable": "div_1233_365_265_71_div_ffffffffffffffffffffffff8001000000000000000000000000000000000000_0e2eedc7695fe290533e1f8aa315623d", 
+    "image_path": "OWVlNDJkNzA2MTI5ZGNiM2M5Y2NhMDBjMmNmZDk4MzY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "selector-wrapper js product-form__item"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(58, 58, 58)", 
+            "cssClass": "selector-wrapper js product-form__item", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Graphik_Semibold", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 71, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "SIZE\n                    \n                    \n                      \n                      \n                        2\n                      \n                      \n                      \n                        4\n                      \n                      \n                      \n                        6\n                      \n                      \n                      \n                        8\n                      \n                      \n                      \n                        10", 
+            "type": "", 
+            "value": "", 
+            "width": 265, 
+            "x": 1233, 
+            "xPercent": 64.69816272965879, 
+            "y": 365, 
+            "yPercent": 17.874632713026443
+        }, 
+        "location": {
+            "x": 1233, 
+            "y": 365
+        }, 
+        "size": {
+            "height": 71, 
+            "width": 265
+        }, 
+        "tag_name": "div", 
+        "text": "SIZE\n                    \n                    \n                      \n                      \n                        2\n                      \n                      \n                      \n                        4\n                      \n                      \n                      \n                        6\n                      \n                      \n                      \n                        8\n                      \n                      \n                      \n                        10"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "b98ff2d2c8884b2efe219b3a067db19b", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "SIZE\n                    \n                    \n                      \n                      \n                        2\n                      \n                      \n                      \n                        4\n                      \n                      \n                      \n                        6\n                      \n                      \n                      \n                        8\n                      \n                      \n                      \n                        10", 
+    "transformed": true, 
+    "width": 265, 
+    "x": 1233, 
+    "y": 365
+}

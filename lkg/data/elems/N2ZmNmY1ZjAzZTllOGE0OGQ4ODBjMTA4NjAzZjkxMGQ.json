@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "5k85HtJeWoQkSqVxzRViFQ==\n", 
+    "height": 44, 
+    "hier_level": 0, 
+    "human_hash": "button_X1007_Y151_W44_H44", 
+    "human_readable": "button_1007_151_44_44_button_01ff80ff800380038003800381038183c183c003c003c003c003c003ffffffff_53da6041f6dbaa02dd1b77e301b277e0", 
+    "image_path": "N2ZmNmY1ZjAzZTllOGE0OGQ4ODBjMTA4NjAzZjkxMGQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-live": "polite", 
+                "aria-pressed": "true", 
+                "class": "slideshow__pause is-paused", 
+                "data-id": "1599681160570", 
+                "type": "button"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0.75)", 
+            "class": "button", 
+            "color": "rgb(58, 58, 58)", 
+            "cssClass": "slideshow__pause is-paused", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica, \"Helvetica Neue\", Arial, \"Lucida Grande\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 44, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Pause slideshow\n              \n              \n                \n                Play slideshow", 
+            "type": "button", 
+            "value": "", 
+            "width": 44, 
+            "x": 1007, 
+            "xPercent": 52.83464566929133, 
+            "y": 151, 
+            "yPercent": 3.182297154899895
+        }, 
+        "location": {
+            "x": 1007, 
+            "y": 151
+        }, 
+        "size": {
+            "height": 44, 
+            "width": 44
+        }, 
+        "tag_name": "button", 
+        "text": "Pause slideshow\n              \n              \n                \n                Play slideshow"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "419738435ab7d3f15a12dbe2af6561c1", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Pause slideshow\n              \n              \n                \n                Play slideshow", 
+    "transformed": true, 
+    "width": 44, 
+    "x": 1007, 
+    "y": 151
+}

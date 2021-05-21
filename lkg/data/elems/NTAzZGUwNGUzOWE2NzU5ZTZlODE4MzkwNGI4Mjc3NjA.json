@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "h1", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "b5UbPkNoGB2op/4R3K3OVw==\n", 
+    "height": 42, 
+    "hier_level": 0, 
+    "human_hash": "h1_X408_Y215_W1090_H42", 
+    "human_readable": "h1_408_215_1090_42_h1_fffffffffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7fffffffff_8dd6c45e186fc14e611fc246c345d242", 
+    "image_path": "NTAzZGUwNGUzOWE2NzU5ZTZlODE4MzkwNGI4Mjc3NjA.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "h1", 
+            "color": "rgb(58, 58, 58)", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Titling_Gothic", 
+            "font-weight": "700", 
+            "fontSize": 35, 
+            "height": 42, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "h1", 
+            "text": "Collection: \n              CROP UP", 
+            "type": "", 
+            "value": "", 
+            "width": 1090, 
+            "x": 408, 
+            "xPercent": 21.391076115485564, 
+            "y": 215, 
+            "yPercent": 6.08375778155065
+        }, 
+        "location": {
+            "x": 408, 
+            "y": 215
+        }, 
+        "size": {
+            "height": 42, 
+            "width": 1090
+        }, 
+        "tag_name": "h1", 
+        "text": "Collection: \n              CROP UP"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "a984d21cc4591971340efb2827810f0e", 
+    "scrollable": false, 
+    "tag_name": "h1", 
+    "text": "Collection: \n              CROP UP", 
+    "transformed": true, 
+    "width": 1090, 
+    "x": 408, 
+    "y": 215
+}

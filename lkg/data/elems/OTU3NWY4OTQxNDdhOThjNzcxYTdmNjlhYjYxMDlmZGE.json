@@ -1,0 +1,92 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "select", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": true, 
+    "hash": "YcWMY5SRxRsFZjUoxFfBTQ==\n", 
+    "height": 44, 
+    "hier_level": 0, 
+    "human_hash": "select_X1238_Y392_W255_H44", 
+    "human_readable": "select_1238_392_255_44_select_ffff000000000000000000004000c003c003400100000000000000000000ffff_56a31c5d9bc54506e01d30c54af2ad66", 
+    "image_path": "OTU3NWY4OTQxNDdhOThjNzcxYTdmNjlhYjYxMDlmZGE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "single-option-selector single-option-selector-product-template product-form__input", 
+                "data-index": "option2", 
+                "id": "SingleOptionSelector-1"
+            }, 
+            "background-color": "rgb(5, 5, 5)", 
+            "class": "select", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "single-option-selector single-option-selector-product-template product-form__input", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": true, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica, \"Helvetica Neue\", Arial, \"Lucida Grande\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 44, 
+            "identifier": "SingleOptionSelector-1", 
+            "is-focused": true, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "select", 
+            "text": "2\n                      \n                      \n                      \n                        4\n                      \n                      \n                      \n                        6\n                      \n                      \n                      \n                        8\n                      \n                      \n                      \n                        10", 
+            "type": "", 
+            "value": "4", 
+            "values": [
+                "2", 
+                "4", 
+                "6", 
+                "8", 
+                "10"
+            ], 
+            "valuesText": [
+                "2", 
+                "4", 
+                "6", 
+                "8", 
+                "10"
+            ], 
+            "width": 255, 
+            "x": 1238, 
+            "xPercent": 64.96062992125984, 
+            "y": 392, 
+            "yPercent": 19.19686581782566
+        }, 
+        "location": {
+            "x": 1238, 
+            "y": 392
+        }, 
+        "size": {
+            "height": 44, 
+            "width": 255
+        }, 
+        "tag_name": "select", 
+        "text": "2\n                      \n                      \n                      \n                        4\n                      \n                      \n                      \n                        6\n                      \n                      \n                      \n                        8\n                      \n                      \n                      \n                        10"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "deaf29feb59b9c365633237e5f8f5957", 
+    "scrollable": false, 
+    "tag_name": "select", 
+    "text": "2\n                      \n                      \n                      \n                        4\n                      \n                      \n                      \n                        6\n                      \n                      \n                      \n                        8\n                      \n                      \n                      \n                        10", 
+    "transformed": true, 
+    "width": 255, 
+    "x": 1238, 
+    "y": 392
+}
