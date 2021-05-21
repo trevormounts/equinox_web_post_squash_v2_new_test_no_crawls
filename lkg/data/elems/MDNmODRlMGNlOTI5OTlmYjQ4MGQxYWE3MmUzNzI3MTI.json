@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "x6ff4dRq3d+kjvHjKWiPfg==\n", 
+    "height": 21, 
+    "hier_level": 0, 
+    "human_hash": "a_X1152_Y518_W376_H21", 
+    "human_readable": "a_1152_518_376_21_a_ffffffff7fff7fff07ff07ff07ff07ff07ff07ff07ff07ff07ffffffffffffff_8edb676a4455d601637dce847c2671aa", 
+    "image_path": "MDNmODRlMGNlOTI5OTlmYjQ4MGQxYWE3MmUzNzI3MTI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "otherLocation___3aPj2", 
+                "href": "#"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "otherLocation___3aPj2", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 21, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Choose Location", 
+            "type": "", 
+            "value": "", 
+            "width": 376, 
+            "x": 1152, 
+            "xPercent": 60, 
+            "y": 518, 
+            "yPercent": 5.945821854912764
+        }, 
+        "location": {
+            "x": 1152, 
+            "y": 518
+        }, 
+        "size": {
+            "height": 21, 
+            "width": 376
+        }, 
+        "tag_name": "a", 
+        "text": "Choose Location"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "53f387d5b50b6854e3ab3a3539c87323", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Choose Location", 
+    "transformed": true, 
+    "width": 376, 
+    "x": 1152, 
+    "y": 518
+}
