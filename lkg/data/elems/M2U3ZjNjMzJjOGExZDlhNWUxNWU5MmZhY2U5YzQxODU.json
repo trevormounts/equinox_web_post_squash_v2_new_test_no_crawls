@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "eHA8eGTDb4nGhYq/k6QXDw==\n", 
+    "height": 22, 
+    "hier_level": 0, 
+    "human_hash": "a_X1303_Y56_W106_H22", 
+    "human_readable": "a_1303_56_106_22_a_000000000000c82180607f7fff7fff7fff7fffffffff20002000000000000000_21451347395ec5844bf9b6b2516ad500", 
+    "image_path": "M2U3ZjNjMzJjOGExZDlhNWUxNWU5MmZhY2U5YzQxODU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "", 
+                "href": "/promotion/former-member?icmp=topnav-fm"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 22, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Equinox Alumni", 
+            "type": "", 
+            "value": "", 
+            "width": 106, 
+            "x": 1303, 
+            "xPercent": 67.84830729166667, 
+            "y": 56, 
+            "yPercent": 0.6055646481178396
+        }, 
+        "location": {
+            "x": 1303, 
+            "y": 56
+        }, 
+        "size": {
+            "height": 22, 
+            "width": 106
+        }, 
+        "tag_name": "a", 
+        "text": "Equinox Alumni"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "eb83d869a0984015fcc3ecd5bd9fe0ac", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Equinox Alumni", 
+    "transformed": true, 
+    "width": 106, 
+    "x": 1303, 
+    "y": 56
+}

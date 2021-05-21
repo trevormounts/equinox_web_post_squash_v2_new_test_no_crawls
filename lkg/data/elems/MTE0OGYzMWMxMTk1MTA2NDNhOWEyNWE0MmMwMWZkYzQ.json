@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "On7eBBN2jKZGHoK0eoEZIA==\n", 
+    "height": 22, 
+    "hier_level": 0, 
+    "human_hash": "a_X799_Y56_W53_H22", 
+    "human_readable": "a_799_56_53_22_a_0000000000007800f800dffb9fff9ffe9fffffff7fff00000000000000000000_962b74c4a4de710ef7e1fc5efa538b69", 
+    "image_path": "MTE0OGYzMWMxMTk1MTA2NDNhOWEyNWE0MmMwMWZkYzQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "", 
+                "href": "/groupfitness?icmp=topnav-classes"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 22, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Classes", 
+            "type": "", 
+            "value": "", 
+            "width": 53, 
+            "x": 799, 
+            "xPercent": 41.615397135416664, 
+            "y": 56, 
+            "yPercent": 0.6055646481178396
+        }, 
+        "location": {
+            "x": 799, 
+            "y": 56
+        }, 
+        "size": {
+            "height": 22, 
+            "width": 53
+        }, 
+        "tag_name": "a", 
+        "text": "Classes"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "eb83d869a0984015fcc3ecd5bd9fe0ac", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Classes", 
+    "transformed": true, 
+    "width": 53, 
+    "x": 799, 
+    "y": 56
+}
