@@ -1,0 +1,16 @@
+{
+    "btn_claim_offer_membership_page": {
+        "all_scores": {
+            "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 0.99
+        }, 
+        "score": 0.99, 
+        "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+    }, 
+    "claim_offer_button": {
+        "all_scores": {
+            "test_ai_mod.carbon_classifiers.general_classifier_v1.general_classifier": 0.75
+        }, 
+        "score": 0.75, 
+        "source": "test_ai_mod.carbon_classifiers.general_classifier_v1.general_classifier"
+    }
+}
