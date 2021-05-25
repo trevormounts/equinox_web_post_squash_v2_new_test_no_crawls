@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "y7uA2VgdEDoBBAcUQp9nNQ==\n", 
+    "height": 20, 
+    "hier_level": 0, 
+    "human_hash": "a_X811_Y439_W236_H20", 
+    "human_readable": "a_811_439_236_20_a_00008002841004007fcf7ffff7dc975f175f048016dcd3df0091ff6fffff0000_08924df0e6bed72934a6d977243ee2dd", 
+    "image_path": "ZWNkZDVmNjU0MmNiODNhNmU0OGY5MDg4YTk2ZjJlZTE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://www.equinox.com/promotion/equinox-fm?icmp=hp-fm"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 20, 
+            "height": 20, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Former Member Benefits", 
+            "type": "", 
+            "value": "", 
+            "width": 236, 
+            "x": 811, 
+            "xPercent": 42.239583333333336, 
+            "y": 439, 
+            "yPercent": 6.38337029227861
+        }, 
+        "location": {
+            "x": 811, 
+            "y": 439
+        }, 
+        "size": {
+            "height": 20, 
+            "width": 236
+        }, 
+        "tag_name": "a", 
+        "text": "Former Member Benefits"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "ac0d4efee91ca4bfc68292cde4025e01", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Former Member Benefits", 
+    "transformed": true, 
+    "width": 236, 
+    "x": 811, 
+    "y": 439
+}

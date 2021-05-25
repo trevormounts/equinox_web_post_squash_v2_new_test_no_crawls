@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "h3", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "uBMXqA5ikmiOsdwEdCfqaA==\n", 
+    "height": 45, 
+    "hier_level": 0, 
+    "human_hash": "h3_X248_Y547_W519_H45", 
+    "human_readable": "h3_248_547_519_45_h3_0000c000c000c000c000c000c000c00000000000000000000000000000000000_fb70aa655941513ba1332f6a7f7feffb", 
+    "image_path": "MTY1M2VlYzY4NmUwMDlhNWJkM2E2MTc5M2Y2MWZiYzI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "accordion-label___20hur", 
+                "id": "4skMzIBVd8VQtxYQL0VxQLHeader"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "h3", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "accordion-label___20hur", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 20, 
+            "height": 45, 
+            "identifier": "4skMzIBVd8VQtxYQL0VxQLHeader", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "h3", 
+            "text": "Facial", 
+            "type": "", 
+            "value": "", 
+            "width": 519, 
+            "x": 248, 
+            "xPercent": 12.916666666666668, 
+            "y": 547, 
+            "yPercent": 5.556119857795835
+        }, 
+        "location": {
+            "x": 248, 
+            "y": 547
+        }, 
+        "size": {
+            "height": 45, 
+            "width": 519
+        }, 
+        "tag_name": "h3", 
+        "text": "Facial"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "1a6e3af8a57a4efc7759f6ed65404efe", 
+    "scrollable": false, 
+    "tag_name": "h3", 
+    "text": "Facial", 
+    "transformed": true, 
+    "width": 519, 
+    "x": 248, 
+    "y": 547
+}
