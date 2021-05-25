@@ -1,0 +1,16 @@
+{
+    "login": {
+        "all_scores": {
+            "test_ai_mod.carbon_classifiers.general_classifier_v1.general_classifier": 0.7
+        }, 
+        "score": 0.7, 
+        "source": "test_ai_mod.carbon_classifiers.general_classifier_v1.general_classifier"
+    }, 
+    "play": {
+        "all_scores": {
+            "test_ai_mod.carbon_classifiers.general_classifier_v1.general_classifier": 0.85
+        }, 
+        "score": 0.85, 
+        "source": "test_ai_mod.carbon_classifiers.general_classifier_v1.general_classifier"
+    }
+}

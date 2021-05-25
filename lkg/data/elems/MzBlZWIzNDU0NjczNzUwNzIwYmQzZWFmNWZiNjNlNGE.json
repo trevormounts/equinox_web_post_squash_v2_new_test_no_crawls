@@ -7,18 +7,18 @@
     "enabled": false, 
     "focusable": true, 
     "focused": false, 
-    "hash": "UoxpgAwHNMdM8UDzMYgF6Q==\n", 
+    "hash": "KYIMHIjJR0DcU2Zs49EpPA==\n", 
     "height": 22, 
     "hier_level": 0, 
-    "human_hash": "a_X741_Y56_W40_H22", 
-    "human_readable": "a_741_56_40_22_a_0000000000006c607c60def6ceffceeedeefffff7ff600000000000000000000_0cd40b062f1659290e2ca4a56aba6dfe", 
-    "image_path": "ODNhODMzNmUyOTViZjEyMWQwMzhmY2YxMjdkYjRkZWY.png", 
+    "human_hash": "a_X1477_Y56_W77_H22", 
+    "human_readable": "a_1477_56_77_22_a_0000000000001190c1907dff7efffeff7ffffdfffdff00000000000000000000_6510ec9b4846314982dbfa0543e0efac", 
+    "image_path": "MzBlZWIzNDU0NjczNzUwNzIwYmQzZWFmNWZiNjNlNGE.png", 
     "index": -1, 
     "internal": {
         "elem_dict": {
             "attributes": {
                 "class": "", 
-                "href": "/clubs?icmp=topnav-clubs"
+                "href": "/join/step1/128"
             }, 
             "background-color": "rgba(0, 0, 0, 0)", 
             "class": "a", 
@@ -42,25 +42,25 @@
             "is-hidden": false, 
             "name": "", 
             "tagName": "a", 
-            "text": "Clubs", 
+            "text": "Join Online", 
             "type": "", 
             "value": "", 
-            "width": 40, 
-            "x": 741, 
-            "xPercent": 38.57014973958333, 
+            "width": 77, 
+            "x": 1477, 
+            "xPercent": 76.93033854166667, 
             "y": 56, 
             "yPercent": 0.6055646481178396
         }, 
         "location": {
-            "x": 741, 
+            "x": 1477, 
             "y": 56
         }, 
         "size": {
             "height": 22, 
-            "width": 40
+            "width": 77
         }, 
         "tag_name": "a", 
-        "text": "Clubs"
+        "text": "Join Online"
     }, 
     "is_transformed": true, 
     "package": "", 
@@ -69,9 +69,9 @@
     "screen_hash": "eb83d869a0984015fcc3ecd5bd9fe0ac", 
     "scrollable": false, 
     "tag_name": "a", 
-    "text": "Clubs", 
+    "text": "Join Online", 
     "transformed": true, 
-    "width": 40, 
-    "x": 741, 
+    "width": 77, 
+    "x": 1477, 
     "y": 56
 }

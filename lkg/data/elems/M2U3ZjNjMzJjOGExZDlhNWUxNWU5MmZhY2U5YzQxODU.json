@@ -7,18 +7,18 @@
     "enabled": false, 
     "focusable": true, 
     "focused": false, 
-    "hash": "UoxpgAwHNMdM8UDzMYgF6Q==\n", 
+    "hash": "eHA8eGTDb4nGhYq/k6QXDw==\n", 
     "height": 22, 
     "hier_level": 0, 
-    "human_hash": "a_X741_Y56_W40_H22", 
-    "human_readable": "a_741_56_40_22_a_0000000000006c607c60def6ceffceeedeefffff7ff600000000000000000000_0cd40b062f1659290e2ca4a56aba6dfe", 
-    "image_path": "ODNhODMzNmUyOTViZjEyMWQwMzhmY2YxMjdkYjRkZWY.png", 
+    "human_hash": "a_X1303_Y56_W106_H22", 
+    "human_readable": "a_1303_56_106_22_a_000000000000c82180607f7fff7fff7fff7fffffffff20002000000000000000_21451347395ec5844bf9b6b2516ad500", 
+    "image_path": "M2U3ZjNjMzJjOGExZDlhNWUxNWU5MmZhY2U5YzQxODU.png", 
     "index": -1, 
     "internal": {
         "elem_dict": {
             "attributes": {
                 "class": "", 
-                "href": "/clubs?icmp=topnav-clubs"
+                "href": "/promotion/former-member?icmp=topnav-fm"
             }, 
             "background-color": "rgba(0, 0, 0, 0)", 
             "class": "a", 
@@ -42,25 +42,25 @@
             "is-hidden": false, 
             "name": "", 
             "tagName": "a", 
-            "text": "Clubs", 
+            "text": "Equinox Alumni", 
             "type": "", 
             "value": "", 
-            "width": 40, 
-            "x": 741, 
-            "xPercent": 38.57014973958333, 
+            "width": 106, 
+            "x": 1303, 
+            "xPercent": 67.84830729166667, 
             "y": 56, 
             "yPercent": 0.6055646481178396
         }, 
         "location": {
-            "x": 741, 
+            "x": 1303, 
             "y": 56
         }, 
         "size": {
             "height": 22, 
-            "width": 40
+            "width": 106
         }, 
         "tag_name": "a", 
-        "text": "Clubs"
+        "text": "Equinox Alumni"
     }, 
     "is_transformed": true, 
     "package": "", 
@@ -69,9 +69,9 @@
     "screen_hash": "eb83d869a0984015fcc3ecd5bd9fe0ac", 
     "scrollable": false, 
     "tag_name": "a", 
-    "text": "Clubs", 
+    "text": "Equinox Alumni", 
     "transformed": true, 
-    "width": 40, 
-    "x": 741, 
+    "width": 106, 
+    "x": 1303, 
     "y": 56
 }

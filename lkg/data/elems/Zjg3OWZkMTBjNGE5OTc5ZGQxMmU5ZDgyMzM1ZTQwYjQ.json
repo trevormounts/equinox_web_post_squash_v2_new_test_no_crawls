@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "tCWX08o7/GyjRCTPCPwcZg==\n", 
+    "height": 14, 
+    "hier_level": 0, 
+    "human_hash": "span_X272_Y709_W128_H14", 
+    "human_readable": "span_272_709_128_14_span_0000c4008000eef0fff0fff0f6f4ff66ff70f7f0f7f0fff067f0000000000000_578a0bae5a32540730811d1962bea4c1", 
+    "image_path": "Zjg3OWZkMTBjNGE5OTc5ZGQxMmU5ZDgyMzM1ZTQwYjQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": ""
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 14, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "View this club", 
+            "type": "", 
+            "value": "", 
+            "width": 128, 
+            "x": 272, 
+            "xPercent": 14.166666666666666, 
+            "y": 709, 
+            "yPercent": 11.752176616915424
+        }, 
+        "location": {
+            "x": 272, 
+            "y": 709
+        }, 
+        "size": {
+            "height": 14, 
+            "width": 128
+        }, 
+        "tag_name": "span", 
+        "text": "View this club"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "cf159ae034444b545c002a5e3ae1f4a0", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "View this club", 
+    "transformed": true, 
+    "width": 128, 
+    "x": 272, 
+    "y": 709
+}

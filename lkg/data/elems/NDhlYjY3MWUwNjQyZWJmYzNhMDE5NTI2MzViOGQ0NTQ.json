@@ -7,23 +7,23 @@
     "enabled": false, 
     "focusable": true, 
     "focused": false, 
-    "hash": "UoxpgAwHNMdM8UDzMYgF6Q==\n", 
-    "height": 22, 
+    "hash": "mol+KUQUt223pw5trewKew==\n", 
+    "height": 29, 
     "hier_level": 0, 
-    "human_hash": "a_X741_Y56_W40_H22", 
-    "human_readable": "a_741_56_40_22_a_0000000000006c607c60def6ceffceeedeefffff7ff600000000000000000000_0cd40b062f1659290e2ca4a56aba6dfe", 
-    "image_path": "ODNhODMzNmUyOTViZjEyMWQwMzhmY2YxMjdkYjRkZWY.png", 
+    "human_hash": "a_X1427_Y53_W32_H29", 
+    "human_readable": "a_1427_53_32_29_a_000003c00ff01818100833cc324c23c4318c33cc37ec1c380e7007e000000000_6fee144e1a5aa0579a225f99252f6f97", 
+    "image_path": "NDhlYjY3MWUwNjQyZWJmYzNhMDE5NTI2MzViOGQ0NTQ.png", 
     "index": -1, 
     "internal": {
         "elem_dict": {
             "attributes": {
-                "class": "", 
-                "href": "/clubs?icmp=topnav-clubs"
+                "class": " loginLink___2WtV1", 
+                "href": "/auth/equinox_oauth2/redirect?returnUrl=%2Fclubs%2Fnew-york%2Fdowntown%2Fbrookfieldplace"
             }, 
             "background-color": "rgba(0, 0, 0, 0)", 
             "class": "a", 
             "color": "rgb(255, 255, 255)", 
-            "cssClass": "", 
+            "cssClass": " loginLink___2WtV1", 
             "domLevel": 11, 
             "flags": {
                 "checkable": false, 
@@ -36,31 +36,31 @@
             "font-family": "\"Graphik Web Regular\", sans-serif", 
             "font-weight": "400", 
             "fontSize": 14, 
-            "height": 22, 
+            "height": 29, 
             "identifier": "", 
             "is-focused": false, 
             "is-hidden": false, 
             "name": "", 
             "tagName": "a", 
-            "text": "Clubs", 
+            "text": "Login", 
             "type": "", 
             "value": "", 
-            "width": 40, 
-            "x": 741, 
-            "xPercent": 38.57014973958333, 
-            "y": 56, 
-            "yPercent": 0.6055646481178396
+            "width": 32, 
+            "x": 1427, 
+            "xPercent": 74.326171875, 
+            "y": 53, 
+            "yPercent": 0.5782869612656847
         }, 
         "location": {
-            "x": 741, 
-            "y": 56
+            "x": 1427, 
+            "y": 53
         }, 
         "size": {
-            "height": 22, 
-            "width": 40
+            "height": 29, 
+            "width": 32
         }, 
         "tag_name": "a", 
-        "text": "Clubs"
+        "text": "Login"
     }, 
     "is_transformed": true, 
     "package": "", 
@@ -69,9 +69,9 @@
     "screen_hash": "eb83d869a0984015fcc3ecd5bd9fe0ac", 
     "scrollable": false, 
     "tag_name": "a", 
-    "text": "Clubs", 
+    "text": "Login", 
     "transformed": true, 
-    "width": 40, 
-    "x": 741, 
-    "y": 56
+    "width": 32, 
+    "x": 1427, 
+    "y": 53
 }
